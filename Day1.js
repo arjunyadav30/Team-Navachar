@@ -1,4 +1,5 @@
 // Team-Navachar
+//Day - 1 : Print student details from an object
 const readline = require("readline");
 const rl = readline.createInterface({
     input: process.stdin,
